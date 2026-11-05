@@ -71,11 +71,11 @@ The following examples compare the original satellite imagery, ground-truth segm
 
 The model is evaluated using the following metrics:
 
-- **Accuracy:** Measures the overall proportion of correctly classified pixels.
-- **Intersection over Union (IoU):** Measures the overlap between predicted and ground-truth segmentation masks.
-- **Dice Score:** Evaluates the similarity between predicted and actual landslide regions.
-- **Precision:** Measures the proportion of predicted landslide pixels that are correctly identified.
-- **Recall:** Measures the proportion of actual landslide pixels detected by the model.
+- **Accuracy:** 98.80%
+- **Intersection over Union (IoU):** 62.11%
+- **Dice Score:** 76.3%
+- **Precision:** 74.12%
+- **Recall:** 79.32%
 
 ## Application
 
